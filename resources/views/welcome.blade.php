@@ -13,7 +13,7 @@
 @endsection
 @section('content')
     <section>
-        <div class="container mti-5">
+        <div class="container">
             <div class="row text-center mt-5">
                 <h1 class="text-white">Welcome to Boton Institute Of Analytics</h1>
             </div>
